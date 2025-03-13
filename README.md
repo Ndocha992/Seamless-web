@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Seamless ✨
 
 ### Custom Tailoring Platform - Connecting Clients with Tailors for Bespoke Clothing Solutions
@@ -206,3 +207,7 @@ MIT License - Free to use, modify, and distribute
 
   Crafted with ❤️ using Vue.js
 </div>
+=======
+# Seamless-web
+A tailoring platform
+>>>>>>> origin/main
